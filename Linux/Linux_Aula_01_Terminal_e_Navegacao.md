@@ -98,3 +98,7 @@ diretórios. - Navegação. - Manipulação básica de arquivos. - Primeiros
 comandos essenciais.
 
 Próxima aula: **Permissões, usuários, grupos e sudo**.
+
+---
+
+#### Feito por Lucas Siqueira

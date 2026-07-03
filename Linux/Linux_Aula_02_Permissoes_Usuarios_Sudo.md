@@ -43,3 +43,7 @@ chmod 644 config.conf
 chmod 755 script.sh
 ls -l
 ```
+
+---
+
+#### Feito por Lucas Siqueira

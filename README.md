@@ -91,7 +91,7 @@ Ao final deste intensivão, pretendo ser capaz de:
 ## 📈 Progresso
 
 - [x] Git
-- [ ] Linux
+- [x] Linux
 - [ ] Redes
 - [ ] Python para Automação
 - [ ] AWS Cloud

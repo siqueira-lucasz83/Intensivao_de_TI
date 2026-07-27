@@ -399,3 +399,7 @@ Responda:
 ➡️ Aula 8 — TCP x UDP
 
 Você vai aprender a diferença entre comunicação confiável e comunicação rápida, entendendo por que jogos online utilizam UDP enquanto sites e bancos normalmente utilizam TCP.
+
+---
+
+#### Feito por Lucas Siqueira

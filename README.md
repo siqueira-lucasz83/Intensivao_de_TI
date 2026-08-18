@@ -92,7 +92,8 @@ Ao final deste intensivão, pretendo ser capaz de:
 
 - [x] Git
 - [x] Linux
-- [ ] Redes
+- [x] Redes
+##### Pausa pro estágio do C6 Bank
 - [ ] Python para Automação
 - [ ] AWS Cloud
 
